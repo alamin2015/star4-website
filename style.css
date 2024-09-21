@@ -1,5 +1,10 @@
 header {
     text-align: center;
+    text-decoration: blue;
+}
+
+header h3 {
+    text-decoration: underline;
 }
 
 h1 {
@@ -13,12 +18,26 @@ h1 {
     width: 100%;
 }
 
-footer {
+.one h2 {
+    text-decoration: underline;
+}
+
+.two {
     background-color: aquamarine;
     text-align: center;
 
 }
 
+.rules {
+    text-decoration: underline;
+}
+
 main h1 {
     text-align: center;
+}
+
+.four {
+    width: 300px;
+    height: 50%;
+    display: flex;
 }
