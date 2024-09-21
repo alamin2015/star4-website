@@ -37,7 +37,15 @@ main h1 {
 }
 
 .four {
-    width: 300px;
-    height: 50%;
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.amir {
+    height: 96%;
+}
+
+.alamin {
+    height: 96%;
 }
