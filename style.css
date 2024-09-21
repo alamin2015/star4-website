@@ -42,6 +42,14 @@ main h1 {
     gap: 20px;
 }
 
+.nagad {
+    background-color: skyblue;
+}
+
+.dutch {
+    background-color: skyblue;
+}
+
 .amir {
     height: 96%;
 }
